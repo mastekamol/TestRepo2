@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<<<<<<< HEAD
-<title>Success Page21</title>
-=======
+
+
+
 <title>Success Page25</title>
->>>>>>> amoldev
+
 </head>
 <body>
 User Details

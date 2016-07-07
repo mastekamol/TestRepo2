@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<<<<<<< HEAD
-<title> Page20</title>
-=======
-<title>Success 20</title>
->>>>>>> c8907eaa5450bd1b150c4c9110b77639a6b47744
+
+<title>Success page20</title>
+
 </head>
 <body>
 User Details

@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Success Page20</title>
+<title>Success 20</title>
 </head>
 <body>
 User Details

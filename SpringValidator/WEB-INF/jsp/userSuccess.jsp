@@ -4,15 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<<<<<<< HEAD
-
-
-
-<title>Success Page25</title>
-
-=======
 <title>Success Page20</title>
->>>>>>> 8fa218ac81aa022a99fe4f924ce26e3ea4c2281c
 </head>
 <body>
 User Details
